@@ -1,0 +1,29 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+
+}
+.bg{
+    width:100%;
+    height:200px;
+    background:#000
+
+
+}
+.bg1{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    float: left;
+}
+.bg2{
+    width: 100%;
+    height: 100%;
+    background-color: darkslategray;
+    float: inherit;
+    color: white;
+    vertical-align: middle;
+
+
+
+}
